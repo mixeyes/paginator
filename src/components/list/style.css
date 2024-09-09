@@ -1,0 +1,12 @@
+.collection {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 13px;
+
+  .item{
+    border: thick double #32a1ce;
+    height: 25vh;
+    width: 20vw;
+  }
+}
